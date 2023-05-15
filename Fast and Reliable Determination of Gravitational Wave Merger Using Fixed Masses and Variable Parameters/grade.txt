@@ -1,5 +1,0 @@
-Proposal: 8/8
-Presentation: 56/64
-Paper: 58/64
-Code: 64/64
-Total: 186/200
