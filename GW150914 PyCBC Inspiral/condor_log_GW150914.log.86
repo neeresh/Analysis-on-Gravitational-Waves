@@ -1,0 +1,39 @@
+000 (086.000.000) 2023-07-07 01:41:51 Job submitted from host: <10.0.0.209:58633?addrs=10.0.0.209-58633+[2601-192-8800-cd0-c03-1628-6cd-d26]-58633&alias=neereshs-macbook-pro.local&noUDP&sock=schedd_2669_4a5c>
+    DAG Node: job1
+...
+040 (086.000.000) 2023-07-07 01:42:10 Started transferring input files
+	Transferring to host: <10.0.0.209:58633?addrs=10.0.0.209-58633+[2601-192-8800-cd0-c03-1628-6cd-d26]-58633&alias=neereshs-macbook-pro.local&noUDP&sock=slot1_39586_ab03_8>
+...
+040 (086.000.000) 2023-07-07 01:43:17 Finished transferring input files
+...
+001 (086.000.000) 2023-07-07 01:43:18 Job executing on host: <10.0.0.209:58633?addrs=10.0.0.209-58633+[2601-192-8800-cd0-c03-1628-6cd-d26]-58633&alias=neereshs-macbook-pro.local&noUDP&sock=startd_2669_4a5c>
+...
+006 (086.000.000) 2023-07-07 01:43:26 Image size of job updated: 26142
+	41  -  MemoryUsage of job (MB)
+	40988  -  ResidentSetSize of job (KB)
+...
+006 (086.000.000) 2023-07-07 01:43:43 Image size of job updated: 403252
+	1170  -  MemoryUsage of job (MB)
+	1198072  -  ResidentSetSize of job (KB)
+...
+040 (086.000.000) 2023-07-07 01:43:43 Started transferring output files
+...
+040 (086.000.000) 2023-07-07 01:43:43 Finished transferring output files
+...
+005 (086.000.000) 2023-07-07 01:43:43 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	19380852  -  Run Bytes Sent By Job
+	18990860288  -  Run Bytes Received By Job
+	19380852  -  Total Bytes Sent By Job
+	18990860288  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :                 1         1 
+	   Disk (KB)            : 18564698    10240  71062642 
+	   Memory (MB)          :     1170     1024      3276 
+
+	Job terminated of its own accord at 2023-07-07T05:43:43Z with exit-code 0.
+...

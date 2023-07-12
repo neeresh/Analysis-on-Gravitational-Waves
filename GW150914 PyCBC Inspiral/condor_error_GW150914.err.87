@@ -1,0 +1,573 @@
+2023-07-07 01:43:19 URL:https://raw.githubusercontent.com/gwastro/pycbc-config/master/test/inspiral/SMALLER_BANK_FOR_GW150914.hdf [15340/15340] -> "SMALLER_BANK_FOR_GW150914.hdf" [1]
+PyCBC.libutils: pkg-config call failed, setting NO_PKGCONFIG=1
+2023-07-07 01:43:25,492 Reading Frames
+2023-07-07 01:43:31,850 Highpass Filtering
+2023-07-07 01:43:32,077 Resampling data
+2023-07-07 01:43:33,799 Converting to float64
+2023-07-07 01:43:34,338 Highpass Filtering
+2023-07-07 01:43:34,449 Remove Padding
+2023-07-07 01:43:34,450 Writing output strain to DATA_FILE_1126259078_1126259278.gwf
+2023-07-07 01:43:35,925 Done
+PyCBC.libutils: pkg-config call failed, setting NO_PKGCONFIG=1
+2023-07-07T01:43:36.847-04:00 Running with CPU support: 1 threads
+2023-07-07T01:43:36.848-04:00 Reading Frames
+2023-07-07T01:43:37.719-04:00 Highpass Filtering
+2023-07-07T01:43:37.738-04:00 Resampling data
+2023-07-07T01:43:37.739-04:00 Converting to float32
+2023-07-07T01:43:37.792-04:00 Highpass Filtering
+2023-07-07T01:43:37.810-04:00 Remove Padding
+2023-07-07T01:43:37.810-04:00 Making frequency-domain data segments
+2023-07-07T01:43:37.859-04:00 You are using the class-based PyCBC FFT API, with the numpy backed. This is provided for convenience only. If performance is important use the class-based API with one of the other backends (for e.g. MKL or FFTW)
+2023-07-07T01:43:37.859-04:00 Overwhitening frequency-domain data segments
+2023-07-07T01:43:37.860-04:00 Read in template bank
+2023-07-07T01:43:37.871-04:00 Full template bank size: 255
+2023-07-07T01:43:37.871-04:00 Template bank size after thinning: 255
+2023-07-07T01:43:37.871-04:00 0: generating SPAtmplt from 30.0 Hz
+2023-07-07T01:43:37.919-04:00 Filtering template 1/255 segment 1/1
+2023-07-07T01:43:37.929-04:00 1: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.030-04:00 Filtering template 2/255 segment 1/1
+2023-07-07T01:43:38.043-04:00 2: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.054-04:00 Filtering template 3/255 segment 1/1
+2023-07-07T01:43:38.063-04:00 3: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.074-04:00 Filtering template 4/255 segment 1/1
+2023-07-07T01:43:38.083-04:00 4: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.093-04:00 Filtering template 5/255 segment 1/1
+2023-07-07T01:43:38.102-04:00 5: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.111-04:00 Filtering template 6/255 segment 1/1
+2023-07-07T01:43:38.119-04:00 6: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.130-04:00 Filtering template 7/255 segment 1/1
+2023-07-07T01:43:38.139-04:00 7: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.150-04:00 Filtering template 8/255 segment 1/1
+2023-07-07T01:43:38.159-04:00 8: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.170-04:00 Filtering template 9/255 segment 1/1
+2023-07-07T01:43:38.178-04:00 9: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.186-04:00 Filtering template 10/255 segment 1/1
+2023-07-07T01:43:38.195-04:00 10: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.203-04:00 Filtering template 11/255 segment 1/1
+2023-07-07T01:43:38.212-04:00 1 points above threshold
+2023-07-07T01:43:38.218-04:00 11: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.226-04:00 Filtering template 12/255 segment 1/1
+2023-07-07T01:43:38.234-04:00 12: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.245-04:00 Filtering template 13/255 segment 1/1
+2023-07-07T01:43:38.254-04:00 1 points above threshold
+2023-07-07T01:43:38.257-04:00 13: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.265-04:00 Filtering template 14/255 segment 1/1
+2023-07-07T01:43:38.273-04:00 14: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.284-04:00 Filtering template 15/255 segment 1/1
+2023-07-07T01:43:38.292-04:00 1 points above threshold
+2023-07-07T01:43:38.296-04:00 15: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.306-04:00 Filtering template 16/255 segment 1/1
+2023-07-07T01:43:38.314-04:00 16: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.321-04:00 Filtering template 17/255 segment 1/1
+2023-07-07T01:43:38.328-04:00 17: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.336-04:00 Filtering template 18/255 segment 1/1
+2023-07-07T01:43:38.344-04:00 18: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.350-04:00 Filtering template 19/255 segment 1/1
+2023-07-07T01:43:38.359-04:00 19: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.369-04:00 Filtering template 20/255 segment 1/1
+2023-07-07T01:43:38.377-04:00 20: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.387-04:00 Filtering template 21/255 segment 1/1
+2023-07-07T01:43:38.395-04:00 1 points above threshold
+2023-07-07T01:43:38.398-04:00 21: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.409-04:00 Filtering template 22/255 segment 1/1
+2023-07-07T01:43:38.416-04:00 22: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.427-04:00 Filtering template 23/255 segment 1/1
+2023-07-07T01:43:38.436-04:00 23: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.443-04:00 Filtering template 24/255 segment 1/1
+2023-07-07T01:43:38.451-04:00 24: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.461-04:00 Filtering template 25/255 segment 1/1
+2023-07-07T01:43:38.470-04:00 25: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.477-04:00 Filtering template 26/255 segment 1/1
+2023-07-07T01:43:38.486-04:00 26: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.496-04:00 Filtering template 27/255 segment 1/1
+2023-07-07T01:43:38.504-04:00 27: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.513-04:00 Filtering template 28/255 segment 1/1
+2023-07-07T01:43:38.521-04:00 28: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.532-04:00 Filtering template 29/255 segment 1/1
+2023-07-07T01:43:38.540-04:00 29: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.550-04:00 Filtering template 30/255 segment 1/1
+2023-07-07T01:43:38.558-04:00 30: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.569-04:00 Filtering template 31/255 segment 1/1
+2023-07-07T01:43:38.577-04:00 31: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.588-04:00 Filtering template 32/255 segment 1/1
+2023-07-07T01:43:38.596-04:00 32: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.614-04:00 Filtering template 33/255 segment 1/1
+2023-07-07T01:43:38.623-04:00 33: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.635-04:00 Filtering template 34/255 segment 1/1
+2023-07-07T01:43:38.644-04:00 34: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.654-04:00 Filtering template 35/255 segment 1/1
+2023-07-07T01:43:38.663-04:00 1 points above threshold
+2023-07-07T01:43:38.667-04:00 35: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.672-04:00 Filtering template 36/255 segment 1/1
+2023-07-07T01:43:38.681-04:00 36: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.692-04:00 Filtering template 37/255 segment 1/1
+2023-07-07T01:43:38.702-04:00 37: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.714-04:00 Filtering template 38/255 segment 1/1
+2023-07-07T01:43:38.722-04:00 38: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.731-04:00 Filtering template 39/255 segment 1/1
+2023-07-07T01:43:38.739-04:00 39: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.751-04:00 Filtering template 40/255 segment 1/1
+2023-07-07T01:43:38.760-04:00 1 points above threshold
+2023-07-07T01:43:38.763-04:00 40: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.774-04:00 Filtering template 41/255 segment 1/1
+2023-07-07T01:43:38.783-04:00 41: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.791-04:00 Filtering template 42/255 segment 1/1
+2023-07-07T01:43:38.799-04:00 1 points above threshold
+2023-07-07T01:43:38.803-04:00 42: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.814-04:00 Filtering template 43/255 segment 1/1
+2023-07-07T01:43:38.822-04:00 43: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.832-04:00 Filtering template 44/255 segment 1/1
+2023-07-07T01:43:38.840-04:00 44: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.852-04:00 Filtering template 45/255 segment 1/1
+2023-07-07T01:43:38.860-04:00 45: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.871-04:00 Filtering template 46/255 segment 1/1
+2023-07-07T01:43:38.881-04:00 46: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.889-04:00 Filtering template 47/255 segment 1/1
+2023-07-07T01:43:38.898-04:00 47: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.909-04:00 Filtering template 48/255 segment 1/1
+2023-07-07T01:43:38.918-04:00 48: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.928-04:00 Filtering template 49/255 segment 1/1
+2023-07-07T01:43:38.937-04:00 49: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.948-04:00 Filtering template 50/255 segment 1/1
+2023-07-07T01:43:38.957-04:00 50: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.967-04:00 Filtering template 51/255 segment 1/1
+2023-07-07T01:43:38.976-04:00 51: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:38.987-04:00 Filtering template 52/255 segment 1/1
+2023-07-07T01:43:38.996-04:00 52: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.007-04:00 Filtering template 53/255 segment 1/1
+2023-07-07T01:43:39.015-04:00 53: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.026-04:00 Filtering template 54/255 segment 1/1
+2023-07-07T01:43:39.035-04:00 1 points above threshold
+2023-07-07T01:43:39.038-04:00 54: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.045-04:00 Filtering template 55/255 segment 1/1
+2023-07-07T01:43:39.053-04:00 55: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.064-04:00 Filtering template 56/255 segment 1/1
+2023-07-07T01:43:39.072-04:00 56: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.083-04:00 Filtering template 57/255 segment 1/1
+2023-07-07T01:43:39.091-04:00 57: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.101-04:00 Filtering template 58/255 segment 1/1
+2023-07-07T01:43:39.110-04:00 58: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.121-04:00 Filtering template 59/255 segment 1/1
+2023-07-07T01:43:39.128-04:00 59: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.139-04:00 Filtering template 60/255 segment 1/1
+2023-07-07T01:43:39.147-04:00 1 points above threshold
+2023-07-07T01:43:39.150-04:00 60: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.160-04:00 Filtering template 61/255 segment 1/1
+2023-07-07T01:43:39.168-04:00 61: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.178-04:00 Filtering template 62/255 segment 1/1
+2023-07-07T01:43:39.186-04:00 62: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.196-04:00 Filtering template 63/255 segment 1/1
+2023-07-07T01:43:39.205-04:00 63: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.215-04:00 Filtering template 64/255 segment 1/1
+2023-07-07T01:43:39.224-04:00 64: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.234-04:00 Filtering template 65/255 segment 1/1
+2023-07-07T01:43:39.241-04:00 65: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.251-04:00 Filtering template 66/255 segment 1/1
+2023-07-07T01:43:39.258-04:00 66: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.266-04:00 Filtering template 67/255 segment 1/1
+2023-07-07T01:43:39.274-04:00 67: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.283-04:00 Filtering template 68/255 segment 1/1
+2023-07-07T01:43:39.290-04:00 68: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.300-04:00 Filtering template 69/255 segment 1/1
+2023-07-07T01:43:39.308-04:00 1 points above threshold
+2023-07-07T01:43:39.311-04:00 69: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.322-04:00 Filtering template 70/255 segment 1/1
+2023-07-07T01:43:39.329-04:00 70: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.339-04:00 Filtering template 71/255 segment 1/1
+2023-07-07T01:43:39.347-04:00 71: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.357-04:00 Filtering template 72/255 segment 1/1
+2023-07-07T01:43:39.364-04:00 72: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.374-04:00 Filtering template 73/255 segment 1/1
+2023-07-07T01:43:39.381-04:00 73: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.392-04:00 Filtering template 74/255 segment 1/1
+2023-07-07T01:43:39.398-04:00 1 points above threshold
+2023-07-07T01:43:39.401-04:00 74: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.411-04:00 Filtering template 75/255 segment 1/1
+2023-07-07T01:43:39.418-04:00 1 points above threshold
+2023-07-07T01:43:39.431-04:00 75: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.440-04:00 Filtering template 76/255 segment 1/1
+2023-07-07T01:43:39.449-04:00 76: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.461-04:00 Filtering template 77/255 segment 1/1
+2023-07-07T01:43:39.470-04:00 77: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.481-04:00 Filtering template 78/255 segment 1/1
+2023-07-07T01:43:39.491-04:00 78: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.499-04:00 Filtering template 79/255 segment 1/1
+2023-07-07T01:43:39.508-04:00 79: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.518-04:00 Filtering template 80/255 segment 1/1
+2023-07-07T01:43:39.528-04:00 80: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.539-04:00 Filtering template 81/255 segment 1/1
+2023-07-07T01:43:39.548-04:00 81: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.559-04:00 Filtering template 82/255 segment 1/1
+2023-07-07T01:43:39.569-04:00 82: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.576-04:00 Filtering template 83/255 segment 1/1
+2023-07-07T01:43:39.585-04:00 83: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.596-04:00 Filtering template 84/255 segment 1/1
+2023-07-07T01:43:39.604-04:00 84: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.612-04:00 Filtering template 85/255 segment 1/1
+2023-07-07T01:43:39.620-04:00 85: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.631-04:00 Filtering template 86/255 segment 1/1
+2023-07-07T01:43:39.639-04:00 86: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.648-04:00 Filtering template 87/255 segment 1/1
+2023-07-07T01:43:39.657-04:00 87: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.664-04:00 Filtering template 88/255 segment 1/1
+2023-07-07T01:43:39.673-04:00 88: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.683-04:00 Filtering template 89/255 segment 1/1
+2023-07-07T01:43:39.691-04:00 89: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.702-04:00 Filtering template 90/255 segment 1/1
+2023-07-07T01:43:39.711-04:00 90: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.722-04:00 Filtering template 91/255 segment 1/1
+2023-07-07T01:43:39.731-04:00 1 points above threshold
+2023-07-07T01:43:39.734-04:00 91: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.744-04:00 Filtering template 92/255 segment 1/1
+2023-07-07T01:43:39.752-04:00 92: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.763-04:00 Filtering template 93/255 segment 1/1
+2023-07-07T01:43:39.772-04:00 93: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.779-04:00 Filtering template 94/255 segment 1/1
+2023-07-07T01:43:39.788-04:00 1 points above threshold
+2023-07-07T01:43:39.791-04:00 94: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.798-04:00 Filtering template 95/255 segment 1/1
+2023-07-07T01:43:39.806-04:00 95: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.817-04:00 Filtering template 96/255 segment 1/1
+2023-07-07T01:43:39.825-04:00 96: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.831-04:00 Filtering template 97/255 segment 1/1
+2023-07-07T01:43:39.839-04:00 97: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.850-04:00 Filtering template 98/255 segment 1/1
+2023-07-07T01:43:39.858-04:00 98: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.869-04:00 Filtering template 99/255 segment 1/1
+2023-07-07T01:43:39.877-04:00 99: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.888-04:00 Filtering template 100/255 segment 1/1
+2023-07-07T01:43:39.895-04:00 100: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.906-04:00 Filtering template 101/255 segment 1/1
+2023-07-07T01:43:39.913-04:00 101: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.924-04:00 Filtering template 102/255 segment 1/1
+2023-07-07T01:43:39.933-04:00 102: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.944-04:00 Filtering template 103/255 segment 1/1
+2023-07-07T01:43:39.952-04:00 103: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.959-04:00 Filtering template 104/255 segment 1/1
+2023-07-07T01:43:39.967-04:00 104: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.977-04:00 Filtering template 105/255 segment 1/1
+2023-07-07T01:43:39.986-04:00 105: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:39.994-04:00 Filtering template 106/255 segment 1/1
+2023-07-07T01:43:40.002-04:00 106: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.013-04:00 Filtering template 107/255 segment 1/1
+2023-07-07T01:43:40.020-04:00 107: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.030-04:00 Filtering template 108/255 segment 1/1
+2023-07-07T01:43:40.038-04:00 108: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.044-04:00 Filtering template 109/255 segment 1/1
+2023-07-07T01:43:40.052-04:00 109: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.062-04:00 Filtering template 110/255 segment 1/1
+2023-07-07T01:43:40.070-04:00 110: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.080-04:00 Filtering template 111/255 segment 1/1
+2023-07-07T01:43:40.088-04:00 1 points above threshold
+2023-07-07T01:43:40.091-04:00 111: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.101-04:00 Filtering template 112/255 segment 1/1
+2023-07-07T01:43:40.108-04:00 112: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.118-04:00 Filtering template 113/255 segment 1/1
+2023-07-07T01:43:40.126-04:00 113: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.136-04:00 Filtering template 114/255 segment 1/1
+2023-07-07T01:43:40.143-04:00 114: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.154-04:00 Filtering template 115/255 segment 1/1
+2023-07-07T01:43:40.161-04:00 115: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.171-04:00 Filtering template 116/255 segment 1/1
+2023-07-07T01:43:40.179-04:00 116: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.190-04:00 Filtering template 117/255 segment 1/1
+2023-07-07T01:43:40.197-04:00 117: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.206-04:00 Filtering template 118/255 segment 1/1
+2023-07-07T01:43:40.212-04:00 118: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.233-04:00 Filtering template 119/255 segment 1/1
+2023-07-07T01:43:40.243-04:00 119: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.254-04:00 Filtering template 120/255 segment 1/1
+2023-07-07T01:43:40.264-04:00 1 points above threshold
+2023-07-07T01:43:40.267-04:00 120: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.277-04:00 Filtering template 121/255 segment 1/1
+2023-07-07T01:43:40.287-04:00 121: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.298-04:00 Filtering template 122/255 segment 1/1
+2023-07-07T01:43:40.308-04:00 122: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.316-04:00 Filtering template 123/255 segment 1/1
+2023-07-07T01:43:40.325-04:00 1 points above threshold
+2023-07-07T01:43:40.328-04:00 123: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.340-04:00 Filtering template 124/255 segment 1/1
+2023-07-07T01:43:40.348-04:00 124: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.356-04:00 Filtering template 125/255 segment 1/1
+2023-07-07T01:43:40.365-04:00 125: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.377-04:00 Filtering template 126/255 segment 1/1
+2023-07-07T01:43:40.385-04:00 1 points above threshold
+2023-07-07T01:43:40.388-04:00 126: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.396-04:00 Filtering template 127/255 segment 1/1
+2023-07-07T01:43:40.404-04:00 127: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.416-04:00 Filtering template 128/255 segment 1/1
+2023-07-07T01:43:40.424-04:00 128: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.435-04:00 Filtering template 129/255 segment 1/1
+2023-07-07T01:43:40.444-04:00 129: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.456-04:00 Filtering template 130/255 segment 1/1
+2023-07-07T01:43:40.464-04:00 130: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.475-04:00 Filtering template 131/255 segment 1/1
+2023-07-07T01:43:40.483-04:00 131: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.494-04:00 Filtering template 132/255 segment 1/1
+2023-07-07T01:43:40.503-04:00 132: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.515-04:00 Filtering template 133/255 segment 1/1
+2023-07-07T01:43:40.524-04:00 133: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.535-04:00 Filtering template 134/255 segment 1/1
+2023-07-07T01:43:40.543-04:00 134: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.552-04:00 Filtering template 135/255 segment 1/1
+2023-07-07T01:43:40.562-04:00 1 points above threshold
+2023-07-07T01:43:40.565-04:00 135: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.576-04:00 Filtering template 136/255 segment 1/1
+2023-07-07T01:43:40.584-04:00 136: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.595-04:00 Filtering template 137/255 segment 1/1
+2023-07-07T01:43:40.604-04:00 137: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.615-04:00 Filtering template 138/255 segment 1/1
+2023-07-07T01:43:40.623-04:00 1 points above threshold
+2023-07-07T01:43:40.641-04:00 138: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.652-04:00 Filtering template 139/255 segment 1/1
+2023-07-07T01:43:40.661-04:00 139: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.673-04:00 Filtering template 140/255 segment 1/1
+2023-07-07T01:43:40.681-04:00 140: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.692-04:00 Filtering template 141/255 segment 1/1
+2023-07-07T01:43:40.700-04:00 141: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.709-04:00 Filtering template 142/255 segment 1/1
+2023-07-07T01:43:40.717-04:00 142: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.727-04:00 Filtering template 143/255 segment 1/1
+2023-07-07T01:43:40.736-04:00 143: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.747-04:00 Filtering template 144/255 segment 1/1
+2023-07-07T01:43:40.754-04:00 144: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.762-04:00 Filtering template 145/255 segment 1/1
+2023-07-07T01:43:40.770-04:00 145: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.781-04:00 Filtering template 146/255 segment 1/1
+2023-07-07T01:43:40.790-04:00 146: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.800-04:00 Filtering template 147/255 segment 1/1
+2023-07-07T01:43:40.808-04:00 147: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.819-04:00 Filtering template 148/255 segment 1/1
+2023-07-07T01:43:40.827-04:00 148: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.838-04:00 Filtering template 149/255 segment 1/1
+2023-07-07T01:43:40.846-04:00 149: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.855-04:00 Filtering template 150/255 segment 1/1
+2023-07-07T01:43:40.863-04:00 150: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.873-04:00 Filtering template 151/255 segment 1/1
+2023-07-07T01:43:40.880-04:00 151: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.890-04:00 Filtering template 152/255 segment 1/1
+2023-07-07T01:43:40.898-04:00 152: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.908-04:00 Filtering template 153/255 segment 1/1
+2023-07-07T01:43:40.915-04:00 153: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.925-04:00 Filtering template 154/255 segment 1/1
+2023-07-07T01:43:40.933-04:00 154: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.943-04:00 Filtering template 155/255 segment 1/1
+2023-07-07T01:43:40.950-04:00 155: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.957-04:00 Filtering template 156/255 segment 1/1
+2023-07-07T01:43:40.965-04:00 156: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.976-04:00 Filtering template 157/255 segment 1/1
+2023-07-07T01:43:40.985-04:00 157: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:40.995-04:00 Filtering template 158/255 segment 1/1
+2023-07-07T01:43:41.004-04:00 158: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.013-04:00 Filtering template 159/255 segment 1/1
+2023-07-07T01:43:41.020-04:00 1 points above threshold
+2023-07-07T01:43:41.023-04:00 159: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.041-04:00 Filtering template 160/255 segment 1/1
+2023-07-07T01:43:41.052-04:00 160: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.058-04:00 Filtering template 161/255 segment 1/1
+2023-07-07T01:43:41.069-04:00 161: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.077-04:00 Filtering template 162/255 segment 1/1
+2023-07-07T01:43:41.087-04:00 162: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.099-04:00 Filtering template 163/255 segment 1/1
+2023-07-07T01:43:41.110-04:00 1 points above threshold
+2023-07-07T01:43:41.113-04:00 163: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.125-04:00 Filtering template 164/255 segment 1/1
+2023-07-07T01:43:41.135-04:00 164: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.147-04:00 Filtering template 165/255 segment 1/1
+2023-07-07T01:43:41.156-04:00 165: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.168-04:00 Filtering template 166/255 segment 1/1
+2023-07-07T01:43:41.177-04:00 166: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.184-04:00 Filtering template 167/255 segment 1/1
+2023-07-07T01:43:41.194-04:00 167: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.205-04:00 Filtering template 168/255 segment 1/1
+2023-07-07T01:43:41.214-04:00 168: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.225-04:00 Filtering template 169/255 segment 1/1
+2023-07-07T01:43:41.235-04:00 169: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.246-04:00 Filtering template 170/255 segment 1/1
+2023-07-07T01:43:41.255-04:00 170: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.265-04:00 Filtering template 171/255 segment 1/1
+2023-07-07T01:43:41.274-04:00 171: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.286-04:00 Filtering template 172/255 segment 1/1
+2023-07-07T01:43:41.295-04:00 172: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.306-04:00 Filtering template 173/255 segment 1/1
+2023-07-07T01:43:41.315-04:00 1 points above threshold
+2023-07-07T01:43:41.318-04:00 173: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.329-04:00 Filtering template 174/255 segment 1/1
+2023-07-07T01:43:41.338-04:00 174: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.349-04:00 Filtering template 175/255 segment 1/1
+2023-07-07T01:43:41.358-04:00 175: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.365-04:00 Filtering template 176/255 segment 1/1
+2023-07-07T01:43:41.373-04:00 176: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.384-04:00 Filtering template 177/255 segment 1/1
+2023-07-07T01:43:41.392-04:00 177: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.403-04:00 Filtering template 178/255 segment 1/1
+2023-07-07T01:43:41.411-04:00 178: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.422-04:00 Filtering template 179/255 segment 1/1
+2023-07-07T01:43:41.431-04:00 179: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.441-04:00 Filtering template 180/255 segment 1/1
+2023-07-07T01:43:41.450-04:00 180: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.458-04:00 Filtering template 181/255 segment 1/1
+2023-07-07T01:43:41.466-04:00 181: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.477-04:00 Filtering template 182/255 segment 1/1
+2023-07-07T01:43:41.485-04:00 1 points above threshold
+2023-07-07T01:43:41.488-04:00 182: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.498-04:00 Filtering template 183/255 segment 1/1
+2023-07-07T01:43:41.506-04:00 183: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.517-04:00 Filtering template 184/255 segment 1/1
+2023-07-07T01:43:41.526-04:00 184: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.537-04:00 Filtering template 185/255 segment 1/1
+2023-07-07T01:43:41.545-04:00 185: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.555-04:00 Filtering template 186/255 segment 1/1
+2023-07-07T01:43:41.564-04:00 186: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.574-04:00 Filtering template 187/255 segment 1/1
+2023-07-07T01:43:41.582-04:00 187: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.593-04:00 Filtering template 188/255 segment 1/1
+2023-07-07T01:43:41.602-04:00 188: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.612-04:00 Filtering template 189/255 segment 1/1
+2023-07-07T01:43:41.621-04:00 189: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.632-04:00 Filtering template 190/255 segment 1/1
+2023-07-07T01:43:41.639-04:00 190: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.646-04:00 Filtering template 191/255 segment 1/1
+2023-07-07T01:43:41.655-04:00 191: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.662-04:00 Filtering template 192/255 segment 1/1
+2023-07-07T01:43:41.671-04:00 192: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.682-04:00 Filtering template 193/255 segment 1/1
+2023-07-07T01:43:41.691-04:00 193: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.697-04:00 Filtering template 194/255 segment 1/1
+2023-07-07T01:43:41.705-04:00 194: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.718-04:00 Filtering template 195/255 segment 1/1
+2023-07-07T01:43:41.731-04:00 195: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.745-04:00 Filtering template 196/255 segment 1/1
+2023-07-07T01:43:41.757-04:00 196: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.769-04:00 Filtering template 197/255 segment 1/1
+2023-07-07T01:43:41.778-04:00 197: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.785-04:00 Filtering template 198/255 segment 1/1
+2023-07-07T01:43:41.793-04:00 198: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.803-04:00 Filtering template 199/255 segment 1/1
+2023-07-07T01:43:41.812-04:00 199: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.823-04:00 Filtering template 200/255 segment 1/1
+2023-07-07T01:43:41.831-04:00 200: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.843-04:00 Filtering template 201/255 segment 1/1
+2023-07-07T01:43:41.853-04:00 201: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.865-04:00 Filtering template 202/255 segment 1/1
+2023-07-07T01:43:41.874-04:00 1 points above threshold
+2023-07-07T01:43:41.877-04:00 202: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.895-04:00 Filtering template 203/255 segment 1/1
+2023-07-07T01:43:41.905-04:00 203: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.917-04:00 Filtering template 204/255 segment 1/1
+2023-07-07T01:43:41.927-04:00 204: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.938-04:00 Filtering template 205/255 segment 1/1
+2023-07-07T01:43:41.949-04:00 205: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.960-04:00 Filtering template 206/255 segment 1/1
+2023-07-07T01:43:41.970-04:00 1 points above threshold
+2023-07-07T01:43:41.974-04:00 206: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:41.986-04:00 Filtering template 207/255 segment 1/1
+2023-07-07T01:43:41.995-04:00 207: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.004-04:00 Filtering template 208/255 segment 1/1
+2023-07-07T01:43:42.014-04:00 208: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.025-04:00 Filtering template 209/255 segment 1/1
+2023-07-07T01:43:42.035-04:00 209: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.047-04:00 Filtering template 210/255 segment 1/1
+2023-07-07T01:43:42.056-04:00 210: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.068-04:00 Filtering template 211/255 segment 1/1
+2023-07-07T01:43:42.080-04:00 211: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.092-04:00 Filtering template 212/255 segment 1/1
+2023-07-07T01:43:42.102-04:00 212: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.114-04:00 Filtering template 213/255 segment 1/1
+2023-07-07T01:43:42.123-04:00 213: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.135-04:00 Filtering template 214/255 segment 1/1
+2023-07-07T01:43:42.143-04:00 214: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.155-04:00 Filtering template 215/255 segment 1/1
+2023-07-07T01:43:42.164-04:00 215: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.176-04:00 Filtering template 216/255 segment 1/1
+2023-07-07T01:43:42.185-04:00 216: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.197-04:00 Filtering template 217/255 segment 1/1
+2023-07-07T01:43:42.205-04:00 1 points above threshold
+2023-07-07T01:43:42.209-04:00 217: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.218-04:00 Filtering template 218/255 segment 1/1
+2023-07-07T01:43:42.226-04:00 218: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.238-04:00 Filtering template 219/255 segment 1/1
+2023-07-07T01:43:42.247-04:00 219: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.258-04:00 Filtering template 220/255 segment 1/1
+2023-07-07T01:43:42.266-04:00 220: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.274-04:00 Filtering template 221/255 segment 1/1
+2023-07-07T01:43:42.283-04:00 1 points above threshold
+2023-07-07T01:43:42.286-04:00 221: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.293-04:00 Filtering template 222/255 segment 1/1
+2023-07-07T01:43:42.302-04:00 1 points above threshold
+2023-07-07T01:43:42.304-04:00 222: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.316-04:00 Filtering template 223/255 segment 1/1
+2023-07-07T01:43:42.324-04:00 223: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.335-04:00 Filtering template 224/255 segment 1/1
+2023-07-07T01:43:42.345-04:00 224: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.356-04:00 Filtering template 225/255 segment 1/1
+2023-07-07T01:43:42.365-04:00 225: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.375-04:00 Filtering template 226/255 segment 1/1
+2023-07-07T01:43:42.385-04:00 226: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.392-04:00 Filtering template 227/255 segment 1/1
+2023-07-07T01:43:42.401-04:00 227: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.412-04:00 Filtering template 228/255 segment 1/1
+2023-07-07T01:43:42.421-04:00 228: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.432-04:00 Filtering template 229/255 segment 1/1
+2023-07-07T01:43:42.441-04:00 229: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.452-04:00 Filtering template 230/255 segment 1/1
+2023-07-07T01:43:42.460-04:00 230: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.470-04:00 Filtering template 231/255 segment 1/1
+2023-07-07T01:43:42.478-04:00 1 points above threshold
+2023-07-07T01:43:42.481-04:00 231: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.491-04:00 Filtering template 232/255 segment 1/1
+2023-07-07T01:43:42.500-04:00 232: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.511-04:00 Filtering template 233/255 segment 1/1
+2023-07-07T01:43:42.520-04:00 233: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.527-04:00 Filtering template 234/255 segment 1/1
+2023-07-07T01:43:42.535-04:00 1 points above threshold
+2023-07-07T01:43:42.538-04:00 234: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.546-04:00 Filtering template 235/255 segment 1/1
+2023-07-07T01:43:42.555-04:00 235: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.566-04:00 Filtering template 236/255 segment 1/1
+2023-07-07T01:43:42.574-04:00 236: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.585-04:00 Filtering template 237/255 segment 1/1
+2023-07-07T01:43:42.593-04:00 1 points above threshold
+2023-07-07T01:43:42.596-04:00 237: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.607-04:00 Filtering template 238/255 segment 1/1
+2023-07-07T01:43:42.615-04:00 238: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.626-04:00 Filtering template 239/255 segment 1/1
+2023-07-07T01:43:42.634-04:00 239: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.640-04:00 Filtering template 240/255 segment 1/1
+2023-07-07T01:43:42.649-04:00 240: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.660-04:00 Filtering template 241/255 segment 1/1
+2023-07-07T01:43:42.673-04:00 241: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.685-04:00 Filtering template 242/255 segment 1/1
+2023-07-07T01:43:42.695-04:00 242: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.707-04:00 Filtering template 243/255 segment 1/1
+2023-07-07T01:43:42.717-04:00 243: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.728-04:00 Filtering template 244/255 segment 1/1
+2023-07-07T01:43:42.737-04:00 244: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.749-04:00 Filtering template 245/255 segment 1/1
+2023-07-07T01:43:42.758-04:00 245: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.777-04:00 Filtering template 246/255 segment 1/1
+2023-07-07T01:43:42.786-04:00 246: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.796-04:00 Filtering template 247/255 segment 1/1
+2023-07-07T01:43:42.806-04:00 1 points above threshold
+2023-07-07T01:43:42.809-04:00 247: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.820-04:00 Filtering template 248/255 segment 1/1
+2023-07-07T01:43:42.830-04:00 248: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.841-04:00 Filtering template 249/255 segment 1/1
+2023-07-07T01:43:42.850-04:00 249: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.862-04:00 Filtering template 250/255 segment 1/1
+2023-07-07T01:43:42.871-04:00 250: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.882-04:00 Filtering template 251/255 segment 1/1
+2023-07-07T01:43:42.891-04:00 251: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.902-04:00 Filtering template 252/255 segment 1/1
+2023-07-07T01:43:42.911-04:00 252: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.920-04:00 Filtering template 253/255 segment 1/1
+2023-07-07T01:43:42.929-04:00 253: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.939-04:00 Filtering template 254/255 segment 1/1
+2023-07-07T01:43:42.948-04:00 254: generating SEOBNRv2_ROM_DoubleSpin from 30.0 Hz
+2023-07-07T01:43:42.958-04:00 Filtering template 255/255 segment 1/1
+2023-07-07T01:43:42.967-04:00 We currently have 33 triggers
+2023-07-07T01:43:42.967-04:00 Removing triggers with NewSNR below threshold
+2023-07-07T01:43:42.968-04:00 33 remaining triggers
+2023-07-07T01:43:42.968-04:00 Outputting 33 triggers
+2023-07-07T01:43:42.968-04:00 Writing out triggers
+2023-07-07T01:43:42.972-04:00 Finished

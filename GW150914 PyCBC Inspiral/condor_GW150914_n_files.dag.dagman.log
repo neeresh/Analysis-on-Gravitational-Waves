@@ -1,0 +1,15 @@
+000 (085.000.000) 2023-07-07 01:41:50 Job submitted from host: <10.0.0.209:58633?addrs=10.0.0.209-58633+[2601-192-8800-cd0-c03-1628-6cd-d26]-58633&alias=neereshs-macbook-pro.local&noUDP&sock=schedd_2669_4a5c>
+...
+001 (085.000.000) 2023-07-07 01:41:50 Job executing on host: <10.0.0.209:58633?addrs=10.0.0.209-58633+[2601-192-8800-cd0-c03-1628-6cd-d26]-58633&alias=neereshs-macbook-pro.local&noUDP&sock=schedd_2669_4a5c>
+...
+005 (085.000.000) 2023-07-07 01:43:46 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...
